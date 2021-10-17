@@ -4,7 +4,7 @@ NODEJS_VERSION="10"
 IONIC_VERSION="3.9.2"
 ANDROID_SDK_VERSION="3859397"
 ##variables de entorno
-##modificar el archivo /etc/environment
+##modify this file /etc/environment, then add these var
 ANDROID_HOME="/opt/android-sdk"
 JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
 ##variables de entorno
