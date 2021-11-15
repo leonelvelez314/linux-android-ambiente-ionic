@@ -63,3 +63,8 @@ sudo $ANDROID_HOME/tools/bin/sdkmanager "build-tools;${ANDROID_BUILD_TOOLS_VERSI
 echo "****************************** step 19*******************************" 
 
 sudo sudoapt-get autoremove -y
+
+##setep 20, if u have android studio en linux deberias ejecutarlo con un solo comando como este
+##sudo ln -s /full/path/to/your/file /usr/local/bin/name_of_new_command
+##chmod +x /full/path/to/your/file
+
