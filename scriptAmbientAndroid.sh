@@ -5,7 +5,7 @@ IONIC_VERSION="3.9.2"
 ANDROID_SDK_VERSION="3859397"
 ##variables de entorno
 ##modify this file /etc/environment, then add these var
-ANDROID_HOME="/opt/android-sdk"
+##then you shoul be export it like this export ANDROID_HOME="/opt/android-sdk" from terminal
 JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
 ##variables de entorno
 ANDROID_BUILD_TOOLS_VERSION="28.0.1"
